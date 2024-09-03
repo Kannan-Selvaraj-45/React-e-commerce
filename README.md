@@ -10,7 +10,7 @@ You can view the live application at: [Click here to see the live demo](https://
 
 ## 📦 Repository
 
-The source code for this project is available at: [https://github.com/Kannan-Selvaraj-45/react-nxtTrendz-api-poject.git](https://github.com/Kannan-Selvaraj-45/react-nxtTrendz-api-poject.git)
+The source code for this project is available at: [https://github.com/Kannan-Selvaraj-45/React-e-commerce.git](https://github.com/Kannan-Selvaraj-45/React-e-commerce.git)
 
 ## 🌟 Features
 
