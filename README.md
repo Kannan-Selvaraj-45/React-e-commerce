@@ -40,7 +40,7 @@ To run this , follow these steps:
       "start": "react-scripts --openssl-legacy-provider start",
       "build": "react-scripts --openssl-legacy-provider build"
     }
-3.**Save the file and run npm start again.**
+  3.**Save the file and run npm start again.**
 
 ## 💻 Installation
 
