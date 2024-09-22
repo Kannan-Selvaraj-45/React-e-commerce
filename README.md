@@ -29,6 +29,19 @@ The source code for this project is available at: [https://github.com/Kannan-Sel
 - **Username:** `raja`
 - **Password:** `raja@2021`
 
+## 📝 Note
+
+To run this , follow these steps:
+
+1. **Open your package.json file.**
+2. **Change the "start" and "build" scripts to this:**
+   ```bash
+   "scripts": {
+      "start": "react-scripts --openssl-legacy-provider start",
+      "build": "react-scripts --openssl-legacy-provider build"
+    }
+3.**Save the file and run npm start again.**
+
 ## 💻 Installation
 
 To run this project locally, follow these steps:
@@ -36,3 +49,4 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Kannan-Selvaraj-45/React-e-commerce.git
+
